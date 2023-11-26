@@ -6,5 +6,5 @@ Outside of work, I like to work on my personal coding projects, continue my AWS 
 
 I believe in the power of continuous learning and self-improvement. With that being said, some of my other hobbies include working out and reading.
 
-Website: [www.eliotkhachi.dev](www.eliotkhachi.dev)  
+Website: [www.eliotkhachi.dev](https://www.eliotkhachi.dev)  
 Email: [eliotkhachi@gmail.com](eliotkhachi@gmail.com)
