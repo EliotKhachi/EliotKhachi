@@ -4,4 +4,4 @@ My name is Eliot Khachi. I'm an aerospace engineer and self-taught programmer. E
 
 Personal Website: [www.eliotkhachi.dev](https://www.eliotkhachi.dev)  
 Email: [eliotkhachi@gmail.com](mailto:eliotkhachi@gmail.com)  
-Company: [dalus.io](https://www.dalus.io/))
+Company: [dalus.io](https://www.dalus.io/)
